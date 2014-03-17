@@ -288,6 +288,13 @@ a:focus {
 #title h5 {
     font-size: 28px;
 }
+#quote h5 {
+    font-size: 28px;
+}
+h6 {
+    font-size: 24px;
+}
+
 
 #title .footnote {
     font-size: 32px;
@@ -425,6 +432,9 @@ a:focus {
     font-size: 60px;
 }
 
+#javascript li{
+    font-size: 28px;
+}
 /*
     And the "it's in 3D" step again brings some 3D typography - just for fun.
 
