@@ -295,11 +295,22 @@ h6 {
     font-size: 24px;
 }
 
+#css3 li{
+    font-size: 16px;
+}
+#css3 sup,#html5 li{
+    font-size: 24px;
+}
 
 #title .footnote {
     font-size: 32px;
 }
-
+#QA p{
+    font-size: 120px;
+}
+#QA sup{
+    font-size: 24px;
+}
 /*
     Second step is nothing special, just a text with a link, so it doesn't need
     any special styling.
